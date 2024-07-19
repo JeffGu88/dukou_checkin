@@ -5,7 +5,7 @@
 
 name: dukou_checkin
 
-on:
+#on:
   push:
     branches:
       - main
